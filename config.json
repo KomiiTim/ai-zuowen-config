@@ -1,6 +1,6 @@
 {
-  "newButtonEnabled": true,
+  "newButtonEnabled": false,
   "betterButtonEnabled": true,
-  "better_request": "润色要求999",
-  "better_diy": true
+  "better_request": "润色要求18：07",
+  "better_diy": false
 }
